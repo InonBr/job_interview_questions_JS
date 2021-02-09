@@ -15,6 +15,4 @@ const checkPalindrome = (inputString) => {
   return true;
 };
 
-// checkPalindrome(45);
-
 module.exports = checkPalindrome;
